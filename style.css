@@ -57,7 +57,7 @@ input::-webkit-inner-spin-button {
 
 button{
     background-color: transparent;
-    width: 10vh;
+    width:fit-content;
     border: 2px solid #1c1c1c79;
     border-radius: 5px;
     box-shadow: 0px 0px 10px -2px black;
